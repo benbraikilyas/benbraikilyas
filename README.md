@@ -1,4 +1,18 @@
+💻 Backend Developer | Crafting Scalable and Secure Web Solutions .
 
+about me : 
+
+I specialize in backend web development using Django and Django REST Framework. I design robust database models, build clean RESTful APIs, and implement secure user 
+
+authentication systems. I enjoy turning ideas into functional applications, with a strong focus on clean code and performance.
+
+My work includes user roles & permissions (RBAC), email notifications, and full API lifecycles from design to testing and documentation. I'm committed to continuous learning
+
+and passionate about building solutions that matter.
+
+🚀 Always open to collaboration, new challenges, and opportunities in backend development.
+
+------
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/iilyass_benbraik) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/benbraikilyas) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:benbraikilyas9@gmail.com) 
 
