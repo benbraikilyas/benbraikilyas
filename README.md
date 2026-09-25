@@ -1,4 +1,4 @@
-##💻 fullstack Developer | Crafting Scalable and Secure Web Solutions .
+## 💻 fullstack Developer | Crafting Scalable and Secure Web Solutions .
 
 #🚀 Always open to collaboration, new challenges, and opportunities in backend development.
 
